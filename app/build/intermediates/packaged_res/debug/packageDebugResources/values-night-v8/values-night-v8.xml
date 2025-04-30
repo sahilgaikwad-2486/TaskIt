@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_color">#BDB7C3</color>
+    <color name="chipBackgroundColor">#141118</color>
+    <color name="chipStrokeColor">#FFFFFF</color>
+    <color name="chipTextColor">#FFFFFF</color>
+    <color name="icon_color">#BDB7C3</color>
+    <color name="progressIndicator">#6C63FF</color>
+    <color name="progressTrack">#2A2A2A</color>
+    <style name="Base.Theme.TaskIt" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+</resources>

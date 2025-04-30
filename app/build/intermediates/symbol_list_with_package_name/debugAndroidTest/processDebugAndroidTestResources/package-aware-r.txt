@@ -1,0 +1,3 @@
+com.studiox.taskit.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

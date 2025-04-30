@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TaskIt</string>
+    <string name="Log_in"><u>Log in</u></string>
+    <string name="Reset"><u>Reset</u></string>
+    <string name="Version"><u>Version 1.0</u></string>
+    <string name="Feedback">📫 Feedback</string>
+</resources>

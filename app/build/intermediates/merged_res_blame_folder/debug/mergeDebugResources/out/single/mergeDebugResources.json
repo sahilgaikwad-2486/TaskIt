@@ -1,0 +1,454 @@
+[
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable_searchbar_with_radius.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/drawable/searchbar_with_radius.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/font_poppins.ttf.flat",
+        "source": "com.studiox.taskit.app-main-45:/font/poppins.ttf"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable_battery_saving_background.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/drawable/battery_saving_background.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/layout_activity_task_details.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/layout/activity_task_details.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/layout_activity_add_task.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/layout/activity_add_task.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable_calender_icon.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/drawable/calender_icon.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable-xhdpi_about_icon.png.flat",
+        "source": "com.studiox.taskit.app-pngs-38:/drawable-xhdpi/about_icon.png"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable-xxxhdpi_totaltask_icon.png.flat",
+        "source": "com.studiox.taskit.app-pngs-38:/drawable-xxxhdpi/totaltask_icon.png"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.studiox.taskit.app-main-45:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.studiox.taskit.app-main-45:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.studiox.taskit.app-main-45:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable_add_task_icon.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/drawable/add_task_icon.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable-xhdpi_invite_icon.png.flat",
+        "source": "com.studiox.taskit.app-pngs-38:/drawable-xhdpi/invite_icon.png"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable-mdpi_invite_icon.png.flat",
+        "source": "com.studiox.taskit.app-pngs-38:/drawable-mdpi/invite_icon.png"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable-xxhdpi_totaltask_icon.png.flat",
+        "source": "com.studiox.taskit.app-pngs-38:/drawable-xxhdpi/totaltask_icon.png"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable_feedback_icon.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/drawable/feedback_icon.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable_delete_button_with_radius.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/drawable/delete_button_with_radius.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.studiox.taskit.app-main-45:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable-mdpi_back_icon.png.flat",
+        "source": "com.studiox.taskit.app-pngs-38:/drawable-mdpi/back_icon.png"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable_clear_all_button.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/drawable/clear_all_button.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable_theme_icon.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/drawable/theme_icon.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable_search_icon.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/drawable/search_icon.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/layout_activity_task.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/layout/activity_task.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable-hdpi_back_icon.png.flat",
+        "source": "com.studiox.taskit.app-pngs-38:/drawable-hdpi/back_icon.png"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/xml_file_paths.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable_back_button_with_radius.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/drawable/back_button_with_radius.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable_button_with_stroke.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/drawable/button_with_stroke.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/xml_backup_rules.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/layout_activity_settings.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable_task_data_background.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/drawable/task_data_background.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable-xxxhdpi_about_icon.png.flat",
+        "source": "com.studiox.taskit.app-pngs-38:/drawable-xxxhdpi/about_icon.png"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable-mdpi_about_icon.png.flat",
+        "source": "com.studiox.taskit.app-pngs-38:/drawable-mdpi/about_icon.png"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable_icon_background.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/drawable/icon_background.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable-anydpi-v24_about_icon.xml.flat",
+        "source": "com.studiox.taskit.app-pngs-38:/drawable-anydpi-v24/about_icon.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable_main_page_list_svg.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/drawable/main_page_list_svg.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable-xxhdpi_about_icon.png.flat",
+        "source": "com.studiox.taskit.app-pngs-38:/drawable-xxhdpi/about_icon.png"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable_google_icon.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/drawable/google_icon.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable_currenttask_icon.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/drawable/currenttask_icon.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable-hdpi_totaltask_icon.png.flat",
+        "source": "com.studiox.taskit.app-pngs-38:/drawable-hdpi/totaltask_icon.png"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/layout_activity_signup.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable_battery_saving_leaf_icon.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/drawable/battery_saving_leaf_icon.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable-anydpi-v24_invite_icon.xml.flat",
+        "source": "com.studiox.taskit.app-pngs-38:/drawable-anydpi-v24/invite_icon.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable-anydpi-v24_totaltask_icon.xml.flat",
+        "source": "com.studiox.taskit.app-pngs-38:/drawable-anydpi-v24/totaltask_icon.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable-ldpi_invite_icon.png.flat",
+        "source": "com.studiox.taskit.app-pngs-38:/drawable-ldpi/invite_icon.png"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable-xhdpi_notification_icon.png.flat",
+        "source": "com.studiox.taskit.app-main-45:/drawable-xhdpi/notification_icon.png"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable_repeat_task_icon.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/drawable/repeat_task_icon.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable_history_not_found_svg.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/drawable/history_not_found_svg.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/layout_activity_calendar.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/layout/activity_calendar.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable-xhdpi_totaltask_icon.png.flat",
+        "source": "com.studiox.taskit.app-pngs-38:/drawable-xhdpi/totaltask_icon.png"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable_completedtask_icon.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/drawable/completedtask_icon.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/layout_activity_history.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/layout/activity_history.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable_task_recyclerview_background.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/drawable/task_recyclerview_background.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/layout_activity_main.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable_setting_icon.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/drawable/setting_icon.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable-mdpi_totaltask_icon.png.flat",
+        "source": "com.studiox.taskit.app-pngs-38:/drawable-mdpi/totaltask_icon.png"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable-hdpi_about_icon.png.flat",
+        "source": "com.studiox.taskit.app-pngs-38:/drawable-hdpi/about_icon.png"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable_email_icon.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/drawable/email_icon.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable_drop_down_icon.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/drawable/drop_down_icon.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable_add_icon.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/drawable/add_icon.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/layout_activity_profile.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable_no_task_found_svg.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/drawable/no_task_found_svg.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable_password_icon.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/drawable/password_icon.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.studiox.taskit.app-main-45:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable-xxhdpi_back_icon.png.flat",
+        "source": "com.studiox.taskit.app-pngs-38:/drawable-xxhdpi/back_icon.png"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.studiox.taskit.app-main-45:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.studiox.taskit.app-main-45:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/font_poppins_bold.ttf.flat",
+        "source": "com.studiox.taskit.app-main-45:/font/poppins_bold.ttf"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable-ldpi_totaltask_icon.png.flat",
+        "source": "com.studiox.taskit.app-pngs-38:/drawable-ldpi/totaltask_icon.png"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable-hdpi_notification_icon.png.flat",
+        "source": "com.studiox.taskit.app-main-45:/drawable-hdpi/notification_icon.png"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable_profile_icon.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/drawable/profile_icon.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable_clock_icon.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/drawable/clock_icon.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable-xxxhdpi_notification_icon.png.flat",
+        "source": "com.studiox.taskit.app-main-45:/drawable-xxxhdpi/notification_icon.png"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable-ldpi_about_icon.png.flat",
+        "source": "com.studiox.taskit.app-pngs-38:/drawable-ldpi/about_icon.png"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable-xxhdpi_notification_icon.png.flat",
+        "source": "com.studiox.taskit.app-main-45:/drawable-xxhdpi/notification_icon.png"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable-hdpi_invite_icon.png.flat",
+        "source": "com.studiox.taskit.app-pngs-38:/drawable-hdpi/invite_icon.png"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable-xxxhdpi_invite_icon.png.flat",
+        "source": "com.studiox.taskit.app-pngs-38:/drawable-xxxhdpi/invite_icon.png"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.studiox.taskit.app-main-45:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable_task_reminder_icon.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/drawable/task_reminder_icon.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.studiox.taskit.app-main-45:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/layout_taskhistory_recyclerview_item.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/layout/taskhistory_recyclerview_item.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable-ldpi_back_icon.png.flat",
+        "source": "com.studiox.taskit.app-pngs-38:/drawable-ldpi/back_icon.png"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable-xhdpi_back_icon.png.flat",
+        "source": "com.studiox.taskit.app-pngs-38:/drawable-xhdpi/back_icon.png"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/menu_drawer_menu.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/menu/drawer_menu.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable_button_with_radius.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/drawable/button_with_radius.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable_edittext_background.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/drawable/edittext_background.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/layout_activity_login.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable_clear_all_icon.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/drawable/clear_all_icon.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable-anydpi-v24_back_icon.xml.flat",
+        "source": "com.studiox.taskit.app-pngs-38:/drawable-anydpi-v24/back_icon.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable_analysis_icon.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/drawable/analysis_icon.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.studiox.taskit.app-main-45:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/font_poppins_semibold.ttf.flat",
+        "source": "com.studiox.taskit.app-main-45:/font/poppins_semibold.ttf"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/layout_task_recyclerview_item.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/layout/task_recyclerview_item.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/xml_data_extraction_rules.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.studiox.taskit.app-main-45:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/layout_drawer_header.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/layout/drawer_header.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.studiox.taskit.app-main-45:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable_vibrate_icon.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/drawable/vibrate_icon.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/layout_activity_about.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/layout/activity_about.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable_delete_icon.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/drawable/delete_icon.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable_local_data_icon.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/drawable/local_data_icon.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.studiox.taskit.app-main-45:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable_pendingtask_icon.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/drawable/pendingtask_icon.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.studiox.taskit.app-main-45:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable_history_icon.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/drawable/history_icon.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable-xxxhdpi_back_icon.png.flat",
+        "source": "com.studiox.taskit.app-pngs-38:/drawable-xxxhdpi/back_icon.png"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable-mdpi_notification_icon.png.flat",
+        "source": "com.studiox.taskit.app-main-45:/drawable-mdpi/notification_icon.png"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable-xxhdpi_invite_icon.png.flat",
+        "source": "com.studiox.taskit.app-pngs-38:/drawable-xxhdpi/invite_icon.png"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable_delete_button_radius.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/drawable/delete_button_radius.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/drawable_menu_icon.xml.flat",
+        "source": "com.studiox.taskit.app-main-45:/drawable/menu_icon.xml"
+    },
+    {
+        "merged": "com.studiox.taskit.app-debug-43:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.studiox.taskit.app-main-45:/mipmap-xxhdpi/ic_launcher.webp"
+    }
+]

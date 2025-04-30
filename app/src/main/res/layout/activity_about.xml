@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AboutActivity">
+
+    <LinearLayout
+        android:id="@+id/header_layout"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:gravity="center_vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:id="@+id/backButton"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="9dp"
+            android:background="@drawable/back_button_with_radius"
+            android:elevation="20dp"
+            android:gravity="center">
+
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:src="@drawable/back_icon">
+
+            </ImageView>
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/poppins_semibold"
+            android:text="About"
+            android:textSize="16sp">
+
+        </TextView>
+
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:scrollbars="none"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/header_layout">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="24dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:fontFamily="@font/poppins_bold"
+                android:paddingBottom="16dp"
+                android:text="🌟 Meet TaskIt"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/poppins"
+                android:paddingBottom="16dp"
+                android:text="Hey go-getter, welcome to your new productivity sidekick! Whether you're dodging deadlines or slaying to-do lists, TaskIt helps you turn chaos into clarity — one task at a time."
+                android:textSize="12sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/poppins"
+                android:lineSpacingExtra="6dp"
+                android:paddingBottom="16dp"
+                android:text="We're not just a task app. We're your:\n\n🧠 Brain backup\n🗓️ Calendar companion\n🔔 Reminder machine\n🕵️ History tracker"
+                android:textSize="12sp" />
+
+            <com.google.android.material.divider.MaterialDivider
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginBottom="16dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/poppins_semibold"
+                android:paddingTop="4dp"
+                android:paddingBottom="8dp"
+                android:text="🎨 Task Color Legend"
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/poppins"
+                android:lineSpacingExtra="6dp"
+                android:paddingBottom="16dp"
+                android:text="🟣  Completed — You're all set!\n🟡  Today — Tasks due by the end of the day.\n🔴  Upcoming — Tasks scheduled for future dates."
+                android:textSize="12sp" />
+
+            <com.google.android.material.divider.MaterialDivider
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginBottom="16dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/poppins"
+                android:lineSpacingExtra="6dp"
+                android:paddingBottom="16dp"
+                android:text="🔧 Under the Hood\nBuilt with: Java, Firebase, SQLite\nDesigned for: Focus, Simplicity, and ✨Vibes✨"
+                android:textSize="12sp" />
+
+            <com.google.android.material.divider.MaterialDivider
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginBottom="16dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/poppins"
+                android:lineSpacingExtra="6dp"
+                android:paddingBottom="01dp"
+                android:text="💬 Got Feedback?\nWe love hearing from you — whether it's a bug, feature idea, or just a virtual high-five.\n"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/feedbackbutton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="6dp"
+                android:fontFamily="@font/poppins"
+                android:text="@string/Feedback"
+                android:textColor="#BC2196F3"
+                android:textSize="12sp" />
+
+            <com.google.android.material.divider.MaterialDivider
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginBottom="16dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/poppins_semibold"
+                android:paddingBottom="8dp"
+                android:text="👨‍💻 Developers"
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/poppins"
+                android:lineSpacingExtra="6dp"
+                android:paddingBottom="16dp"
+                android:text="• Sahil Gaikwad\n• Prachi Masal \n• Kunal Kalamkar \n• Anuja Darekar \n• Manish Savale \n\nBuilt with ☕, 💡, and way too much caffeine."
+                android:textSize="12sp" />
+
+            <com.google.android.material.divider.MaterialDivider
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginBottom="16dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/poppins"
+                android:paddingBottom="06dp"
+                android:text="🚀 Let's Go!\n\nLoved TaskIt? ⭐ Rate us.\nHated it? 😬 Tell us why.\nEither way — we're building this for you."
+                android:textSize="12sp" />
+
+            <com.google.android.material.divider.MaterialDivider
+                android:id="@+id/deletesection"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginBottom="16dp" />
+
+            <!-- Section Title -->
+            <LinearLayout
+                android:id="@+id/deleteAccountSection"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="gone"> <!-- Hidden by default -->
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/poppins_semibold"
+                    android:paddingBottom="4dp"
+                    android:text="🗑️ Delete Account"
+                    android:textSize="13sp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/poppins"
+                    android:lineSpacingExtra="4dp"
+                    android:paddingBottom="8dp"
+                    android:text="This will permanently delete your data and cannot be undone."
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/deleteAccountButton"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/poppins"
+                    android:paddingTop="8dp"
+                    android:paddingBottom="8dp"
+                    android:text="Delete my account"
+                    android:textColor="#D32F2F"
+                    android:textSize="12sp" />
+            </LinearLayout>
+
+
+            <com.google.android.material.divider.MaterialDivider
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginBottom="16dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/poppins_semibold"
+                android:gravity="center"
+                android:paddingTop="8dp"
+                android:paddingBottom="18dp"
+                android:text="Made with 💜\n by Team TaskIt"
+                android:textSize="12sp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

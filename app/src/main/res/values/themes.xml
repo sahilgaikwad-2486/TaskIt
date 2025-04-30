@@ -1,0 +1,17 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TaskIt" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.TaskIt" parent="Base.Theme.TaskIt" />
+
+    <color name="icon_color">#47444D</color>
+    <color name="background_color">#47444D</color>
+    <color name="progressIndicator">#6C63FF</color>
+    <color name="progressTrack">#E0E0E0</color>
+    <color name="chipStrokeColor">#000000</color>
+    <color name="chipBackgroundColor">#fef7ff</color>
+    <color name="chipTextColor">#000000</color>
+</resources>
