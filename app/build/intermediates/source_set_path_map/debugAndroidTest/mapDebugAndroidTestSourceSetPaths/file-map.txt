@@ -1,5 +1,6 @@
-com.studiox.taskit.test.app-core-1.6.1-0 C:\Users\sahil\.gradle\caches\8.11.1\transforms\1e15da58b24339dde15df31ba84b5737\transformed\core-1.6.1\res
-com.studiox.taskit.test.app-androidTest-1 C:\Users\sahil\AndroidStudioProjects\TaskIt\app\build\generated\res\resValues\androidTest\debug
-com.studiox.taskit.test.app-mergeDebugAndroidTestResources-2 C:\Users\sahil\AndroidStudioProjects\TaskIt\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-com.studiox.taskit.test.app-mergeDebugAndroidTestResources-3 C:\Users\sahil\AndroidStudioProjects\TaskIt\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-com.studiox.taskit.test.app-debugAndroidTest-4 C:\Users\sahil\AndroidStudioProjects\TaskIt\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
+com.studiox.taskit.test.app-core-1.6.1-0 C:\Users\Sahil\.gradle\caches\8.13\transforms\e7c2fee1182b549a3ff1472c8b071c3f\transformed\core-1.6.1\res
+com.studiox.taskit.test.app-androidTest-1 C:\Users\Sahil\StudioProjects\TaskIt\app\build\generated\res\resValues\androidTest\debug
+com.studiox.taskit.test.app-updated_navigation_xml-2 C:\Users\Sahil\StudioProjects\TaskIt\app\build\generated\updated_navigation_xml\debugAndroidTest
+com.studiox.taskit.test.app-mergeDebugAndroidTestResources-3 C:\Users\Sahil\StudioProjects\TaskIt\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.studiox.taskit.test.app-mergeDebugAndroidTestResources-4 C:\Users\Sahil\StudioProjects\TaskIt\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.studiox.taskit.test.app-debugAndroidTest-5 C:\Users\Sahil\StudioProjects\TaskIt\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
