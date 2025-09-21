@@ -1,8 +1,12 @@
 package com.studiox.taskit;
 
+import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.net.Uri;
 import android.os.Bundle;
+import android.os.VibrationEffect;
+import android.os.Vibrator;
 import android.view.View;
 import android.widget.LinearLayout;
 import android.widget.TextView;
@@ -44,6 +48,11 @@ public class AboutActivity extends AppCompatActivity {
         backbtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                SharedPreferences sharedPreferences = getSharedPreferences("AppPrefs", MODE_PRIVATE);
+                if (sharedPreferences.getBoolean("haptic_feedback", true)) {
+                    performHapticFeedback();
+                }
+
                 Intent intent = new Intent(AboutActivity.this, SettingsActivity.class);
                 startActivity(intent);
                 finish();
@@ -100,6 +109,17 @@ public class AboutActivity extends AppCompatActivity {
             deletesection.setVisibility(View.GONE);
         }
 
+    }
+
+    private void performHapticFeedback() {
+        Vibrator vibrator = (Vibrator) getSystemService(Context.VIBRATOR_SERVICE);
+        if (vibrator != null && vibrator.hasVibrator()) {
+            if (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.O) {
+                vibrator.vibrate(VibrationEffect.createOneShot(50, VibrationEffect.DEFAULT_AMPLITUDE));
+            } else {
+                vibrator.vibrate(50);
+            }
+        }
     }
 
     @Override

@@ -496,7 +496,16 @@ public class TaskActivity extends AppCompatActivity {
         swipeRefreshLayout.setOnRefreshListener(new SwipeRefreshLayout.OnRefreshListener() {
             @Override
             public void onRefresh() {
-                refreshTasks();
+                if (allChip.isChecked()) {
+                    fetchFilteredTasks("all");
+                } else if (pendingChip.isChecked()) {
+                    fetchFilteredTasks("pending");
+                } else if (currentChip.isChecked()) {
+                    fetchFilteredTasks("today");
+                } else if (completedChip.isChecked()) {
+                    fetchFilteredTasks("completed");
+                }
+                swipeRefreshLayout.setRefreshing(false);
             }
         });
 

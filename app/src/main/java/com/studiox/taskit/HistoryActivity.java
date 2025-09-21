@@ -3,10 +3,13 @@ package com.studiox.taskit;
 import android.annotation.SuppressLint;
 import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.database.Cursor;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 import android.os.Bundle;
+import android.os.VibrationEffect;
+import android.os.Vibrator;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
@@ -133,11 +136,30 @@ public class HistoryActivity extends AppCompatActivity {
         });
 
         // Back button
-        backbutton.setOnClickListener(v -> {
-            Intent intent = new Intent(HistoryActivity.this, TaskActivity.class);
-            startActivity(intent);
-            finish();
+        backbutton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                SharedPreferences sharedPreferences = getSharedPreferences("AppPrefs", MODE_PRIVATE);
+                if (sharedPreferences.getBoolean("haptic_feedback", true)) {
+                    performHapticFeedback();
+                }
+
+                Intent intent = new Intent(HistoryActivity.this, TaskActivity.class);
+                startActivity(intent);
+                finish();
+            }
         });
+    }
+
+    private void performHapticFeedback() {
+        Vibrator vibrator = (Vibrator) getSystemService(Context.VIBRATOR_SERVICE);
+        if (vibrator != null && vibrator.hasVibrator()) {
+            if (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.O) {
+                vibrator.vibrate(VibrationEffect.createOneShot(50, VibrationEffect.DEFAULT_AMPLITUDE));
+            } else {
+                vibrator.vibrate(50);
+            }
+        }
     }
 
     private void loadHistory() {

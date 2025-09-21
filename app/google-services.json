@@ -23,6 +23,14 @@
           }
         },
         {
+          "client_id": "546592937824-dq5ugdntvbilcs9bacvrnf098r3ai2m3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.studiox.taskit",
+            "certificate_hash": "8deb3e19e1e9246bdcb0bbd91c7cdaed7282cad9"
+          }
+        },
+        {
           "client_id": "546592937824-h20e4qgd83ua98884h0fllo9fup7rc1b.apps.googleusercontent.com",
           "client_type": 3
         }
